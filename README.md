@@ -16,11 +16,11 @@ pnpm prisma migrate dev
 pnpm dev
 ```
 
-# PORT=
+#### PORT=
 
-# NODE_ENV=
+#### NODE_ENV=
 
-# DATABASE_URL=
+#### DATABASE_URL=
 
 ### Frontend Setup
 
